@@ -66,7 +66,3 @@ Below is an example of a basic data visualization generated during the course:
 
 📅 Last updated: March 2025  
 🚀 Status: Completed  
-
----
-
-Let me know if you'd like to expand this into a portfolio-ready format or include a final mini-project section!
